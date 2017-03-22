@@ -1,6 +1,4 @@
-Project SER316
-
-I Am mAking a SMALL CHaNgE to The ReaDMe FiLe TO TeST gIT pUSH
+﻿Project SER316
 
 # spring17project
 This is the initial dump for the ser316 spring 2017 project. It is a slightly modified version of the Memoranda project from memoranda.sf.net
@@ -18,6 +16,8 @@ Your first step should be to clone the github repository (easiest way is to clon
 You should then be able to run the project. The included ant script should work, and you should also be able to run it directly from within Eclipse (Start.java) or the command line or from the .bat/.sh scripts provided. Hint: After running and closing the window from Memoranda make sure you also terminate the the program in eclipse if it is still running (closing the window does not always terminate the program).
 
 Try to change minimal things to see how everything works. After that go back to the initial version and start your SCRUM process and document all changes through github and Taiga (like I said, if it isn’t in github/taiga it does not count).
+
+This team consists of: Brenda Rearden, David Arnold, .
 
 Enjoy!
 
