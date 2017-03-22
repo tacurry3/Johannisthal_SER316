@@ -17,7 +17,11 @@ You should then be able to run the project. The included ant script should work,
 
 Try to change minimal things to see how everything works. After that go back to the initial version and start your SCRUM process and document all changes through github and Taiga (like I said, if it isn’t in github/taiga it does not count).
 
+<<<<<<< HEAD
 This team consists of: Brenda Rearden, David Arnold, .
+=======
+This team consists of: Brenda Rearden, (type name here to test commit).
+>>>>>>> c969a0b18a758310a5f79555de4a2658754f79e0
 
 Enjoy!
 
