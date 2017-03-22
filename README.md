@@ -1,5 +1,7 @@
 Project SER316
 
+I Am mAking a SMALL CHaNgE to The ReaDMe FiLe TO TeST gIT pUSH
+
 # spring17project
 This is the initial dump for the ser316 spring 2017 project. It is a slightly modified version of the Memoranda project from memoranda.sf.net
 
